@@ -1,4 +1,9 @@
 Quai_Thu = {
+
+ [14414] = {name_5 = "❪5✰❫ Zerath", name_6 = "❪6✰❫ Zerath", IDAP = 14414},
+ [27714] = {name_5 = "❪5✰❫ Eivor (Light)", name_6 = "❪6✰❫ Eivor (Light)", IDAP = 27714},
+ [27711] = {name_5 = "❪5✰❫ Eivor ( Water)", name_6 = "❪6✰❫ Eivor (Water)", IDAP = 27711},
+ 
 [10111] = {name_5 = "❪5✰❫ ᴇʟᴜᴄɪᴀ", name_6 = "❪6✰❫ ᴇʟᴜᴄɪᴀ", IDAP = 10111},
 [10112] = {name_5 = "❪5✰❫ ɪsᴇʟɪᴀ", name_6 = "❪6✰❫ ɪsᴇʟɪᴀ", IDAP = 10112},
 [10113] = {name_5 = "❪5✰❫ ᴀᴇɪʟᴇɴᴇ", name_6 = "❪6✰❫ ᴀᴇɪʟᴇɴᴇ", IDAP = 10113},
