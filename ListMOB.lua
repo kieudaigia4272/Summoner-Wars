@@ -1,5 +1,5 @@
 Quai_Thu = {
-
+[21211] = {name_5 = "❪5✰❫ Mo Long", name_6 = "❪6✰❫ Mo Long", IDAP = 21211},
  [14414] = {name_5 = "❪5✰❫ Zerath", name_6 = "❪6✰❫ Zerath", IDAP = 14414},
  [27714] = {name_5 = "❪5✰❫ Eivor (Light)", name_6 = "❪6✰❫ Eivor (Light)", IDAP = 27714},
  [27711] = {name_5 = "❪5✰❫ Eivor ( Water)", name_6 = "❪6✰❫ Eivor (Water)", IDAP = 27711},
